@@ -12,4 +12,4 @@ Use o framework de sua escolha para fazer uma listagem de produtos consumindo o 
 Exemplo de desafio: https://exemplo-desafio-ajncsosl9.vercel.app
 
 ## Como envio meu desafio?
-Faça um fork desse repositório e envie o link para rh@ticto.com.br
+Faça um fork desse repositório e envie o link do app no Vercel para rh@ticto.com.br
